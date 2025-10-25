@@ -1,9 +1,14 @@
 # Questions
 What does HTML stand for?
+
 * HyperText Markup Language
+
 Which of the following is the correct syntax for a closing tag?
+
 * </p>
+
 Which of the following is a valid attribute used inside the img element?
+
 * src
 
 ## Is html sufficent?
