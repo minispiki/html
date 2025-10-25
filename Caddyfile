@@ -1,0 +1,8 @@
+{
+    admin localhost:3030
+}
+
+http://localhost:8080 {
+    root * {env.PATH_TO_ROOT_DIR}
+    file_server browse
+}
