@@ -10,4 +10,4 @@ What is the role of an attribute in HTML?
 
 Which of the following is the correct syntax for a boolean attribute?
 
-* <input type="checkbox" checked>
+* ```<input type="checkbox" checked>```

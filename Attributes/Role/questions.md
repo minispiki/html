@@ -5,7 +5,7 @@ What does HTML stand for?
 
 Which of the following is the correct syntax for a closing tag?
 
-* </p>
+* ```</p>```
 
 Which of the following is a valid attribute used inside the img element?
 
