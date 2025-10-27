@@ -1,0 +1,51 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Sen Prista: Top 3</h1>
+        <p>guy does cool roblox arg and web-series stuff idk what else</p>
+        <section>
+          <h2>Rochas313</h2>
+          <p>arg of parasite in roblox game</p>
+          <iframe title="video" height="200" width="350" src="https://youtube.com/embed/-eFkKA8Vd-4">
+          </iframe>
+        </section>
+        <section>
+          <h2>IHASAFACELULZ</h2>
+          <p>guy gets stalked, just dont intervene</p>
+          <iframe
+            title="video"
+            height="200"
+            width="350"
+            src="https://youtube.com/embed/pOaB-wPv544"
+          >
+
+          </iframe>
+        </section>
+        <section>
+          <h2>House Encounter</h2>
+          <p>idk bro just watch i didnt watch this</p>
+          <iframe
+            title="video"
+            height="200"
+            width="350"
+            src="https://youtube.com/embed/jCyx_Q7p9eQ&t=32s"
+          >
+
+          </iframe>
+        </section>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
